@@ -1,0 +1,1 @@
+create movie app with react + apollo + graphql
