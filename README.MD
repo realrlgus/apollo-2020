@@ -1,1 +1,1 @@
-create movie app with react + apollo + graphql
+create movie app with react + apollo + graphql!
